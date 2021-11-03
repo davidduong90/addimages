@@ -1,1 +1,1 @@
-# addimages
+# add multi images to categories
