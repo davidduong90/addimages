@@ -1,1 +1,1 @@
-# add multi images to categories
+# add multi images to categories Magento 2
